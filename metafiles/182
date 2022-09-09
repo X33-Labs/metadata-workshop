@@ -1,0 +1,29 @@
+{
+  "dna": "040260803011",
+  "name": "Phillip Lemke",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/l3lg6x0m5bh.png",
+  "date": 1662399841790,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 5",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Orange Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pursed Lips",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gem Earring and Helix",
+      "rarity": "uncommon"
+    }
+  ]
+}

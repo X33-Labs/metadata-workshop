@@ -1,0 +1,29 @@
+{
+  "dna": "030260503017",
+  "name": "Geoffrey Howell",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/kbsnd6lkr.png",
+  "date": 1662399822383,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pursed Lips",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Purple Phat",
+      "rarity": "uncommon"
+    }
+  ]
+}

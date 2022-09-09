@@ -1,0 +1,34 @@
+{
+  "dna": "012035026039063",
+  "name": "Alfred Dickens",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/6ydok1c66th.png",
+  "date": 1662399294768,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 13",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Red Buttonup Vest",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Fly Eyes",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Carrot",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Beehive",
+      "rarity": "legendary"
+    }
+  ]
+}

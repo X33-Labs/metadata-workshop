@@ -1,0 +1,34 @@
+{
+  "dna": "01031020305",
+  "name": "Cody Cummings",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/sm69nflbsr.png",
+  "date": 1662399943309,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Gray Suit",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pursed Lips",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gray Hairs",
+      "rarity": "common"
+    }
+  ]
+}

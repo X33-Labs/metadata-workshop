@@ -1,0 +1,34 @@
+{
+  "dna": "010290201107",
+  "name": "Samuel Rodriguez",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/3w6m5x15dmc.png",
+  "date": 1662400033171,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Blue Suit",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Teeth Smile",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "White Beanie",
+      "rarity": "common"
+    }
+  ]
+}

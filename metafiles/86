@@ -1,0 +1,34 @@
+{
+  "dna": "05083014026042",
+  "name": "Marshall Pollich",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/i6pjo4us3ue.png",
+  "date": 1662399484663,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Red Jacket with Chain",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Black Viking Beard",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Bowler Hat",
+      "rarity": "epic"
+    }
+  ]
+}

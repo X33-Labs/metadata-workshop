@@ -1,0 +1,34 @@
+{
+  "dna": "03031021016037",
+  "name": "Erick Morar",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/yr5g9l1z5zp.png",
+  "date": 1662399541001,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Gray Suit",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Zombie Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Brown Beard",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Airbender Arrow",
+      "rarity": "epic"
+    }
+  ]
+}

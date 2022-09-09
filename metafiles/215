@@ -1,0 +1,34 @@
+{
+  "dna": "01056010405",
+  "name": "Terrance Huels",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/5rn8dwrdsv8.png",
+  "date": 1662399993960,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Purple Plumber Overalls",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Smile",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gray Hairs",
+      "rarity": "common"
+    }
+  ]
+}

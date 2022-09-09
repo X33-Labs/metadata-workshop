@@ -1,0 +1,34 @@
+{
+  "dna": "0101107029019",
+  "name": "Milton Lueilwitz",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/t7o7lnty0cb.png",
+  "date": 1662399851837,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Light Blue Hoodie",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Navy Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Cig",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Yellow Phat",
+      "rarity": "uncommon"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "0703501041072",
+  "name": "Stephen Bergnaum",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/4kt9jc4v2mn.png",
+  "date": 1662399339206,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 10",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Red Buttonup Vest",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Corn Cob Pipe",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Lava Brain Beaker",
+      "rarity": "legendary"
+    }
+  ]
+}

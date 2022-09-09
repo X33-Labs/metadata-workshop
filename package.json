@@ -1,0 +1,22 @@
+{
+  "name": "metadata-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyperjump/json-schema": "^0.23.2",
+    "ajv": "^8.11.0",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "json-schema-library": "^7.0.0",
+    "node-fetch": "^2.6.7",
+    "path": "^0.12.7",
+    "xrpl": "^2.5.0-beta.0"
+  }
+}

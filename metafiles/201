@@ -1,0 +1,34 @@
+{
+  "dna": "0109010204",
+  "name": "Herbert Bailey",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/ebfok70f3c.png",
+  "date": 1662399922052,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Green Polo",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Grin",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Earring",
+      "rarity": "common"
+    }
+  ]
+}

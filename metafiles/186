@@ -1,0 +1,29 @@
+{
+  "dna": "010260100304",
+  "name": "Duane Hartmann",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/1ju6j0iwi1f.png",
+  "date": 1662399861863,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Yellow Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pursed Lips",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Earring",
+      "rarity": "common"
+    }
+  ]
+}

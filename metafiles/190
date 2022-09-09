@@ -1,0 +1,34 @@
+{
+  "dna": "020300101206",
+  "name": "Jerome Volkman",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/iw6sldjgkwl.png",
+  "date": 1662399881372,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 3",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Dark Gray Suit ",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Two Teeth",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Headband",
+      "rarity": "common"
+    }
+  ]
+}

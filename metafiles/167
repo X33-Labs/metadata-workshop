@@ -1,0 +1,29 @@
+{
+  "dna": "0502601105021",
+  "name": "Warren Toy",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/ry650fa6ktf.png",
+  "date": 1662399794273,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Bloodshot Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Drooling",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Banana Head",
+      "rarity": "rare"
+    }
+  ]
+}

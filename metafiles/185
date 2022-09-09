@@ -1,0 +1,34 @@
+{
+  "dna": "050200500014",
+  "name": "Kurt Goldner",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/se1ifagtcan.png",
+  "date": 1662399859562,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Red PARC Shirt",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Bored",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Head Mirror",
+      "rarity": "uncommon"
+    }
+  ]
+}

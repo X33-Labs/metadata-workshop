@@ -1,0 +1,34 @@
+{
+  "dna": "0303709012030",
+  "name": "Wayne Sauer",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/puik27ql9zi.png",
+  "date": 1662399732907,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Referee Uniform",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Purple Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Two Teeth",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Leprechaun Hat",
+      "rarity": "rare"
+    }
+  ]
+}

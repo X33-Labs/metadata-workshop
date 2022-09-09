@@ -1,0 +1,29 @@
+{
+  "dna": "0120940101064",
+  "name": "Patrick Frami",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/xx8138lhggc.png",
+  "date": 1662399284385,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 13",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Evil Scientist Top",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Disappointed",
+      "rarity": "common"
+    }
+  ]
+}

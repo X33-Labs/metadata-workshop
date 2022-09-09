@@ -1,0 +1,34 @@
+{
+  "dna": "0706009016060",
+  "name": "Orville Klocko",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/md69r0t0q9.png",
+  "date": 1662399430699,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 10",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "White Formal Suit",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Purple Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Brown Beard",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Slicked Back Hair",
+      "rarity": "epic"
+    }
+  ]
+}

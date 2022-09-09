@@ -1,0 +1,29 @@
+{
+  "dna": "0203026021042",
+  "name": "Shaun Bernier",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/bi9h9pcu74j.png",
+  "date": 1662399920368,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 3",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Fly Eyes",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Nose Ring",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Bowler Hat",
+      "rarity": "epic"
+    }
+  ]
+}

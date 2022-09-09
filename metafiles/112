@@ -1,0 +1,34 @@
+{
+  "dna": "030590501904",
+  "name": "Donnie Schmeler",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/k82um9k5z5.png",
+  "date": 1662399581493,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Safari Vest",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Lipstick",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Earring",
+      "rarity": "common"
+    }
+  ]
+}

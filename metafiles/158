@@ -1,0 +1,34 @@
+{
+  "dna": "030230905013",
+  "name": "Gustavo Paucek",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/ab18pzfehi8.png",
+  "date": 1662399762267,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Yellow PARC Shirt",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Purple Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Drooling",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Green Phat",
+      "rarity": "uncommon"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "02096031044069",
+  "name": "Sean Larson",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/t4qfwv6ow8m.png",
+  "date": 1662399268687,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 3",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Master Armor",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Clout Goggles",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pizza",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Flowerpot Head",
+      "rarity": "legendary"
+    }
+  ]
+}

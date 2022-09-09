@@ -1,0 +1,29 @@
+{
+  "dna": "030460130509",
+  "name": "Charlie Homenick",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/id5gcycftm.png",
+  "date": 1662399631011,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Caveman Shirt",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Drooling",
+      "rarity": "uncommon"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "0609708045065",
+  "name": "Irvin Pacocha",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/hj4j2zhqxpa.png",
+  "date": 1662399250720,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 7",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Ninja Garb",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Orange Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Skeleton Mouth",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Cake Head",
+      "rarity": "legendary"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "020450702206",
+  "name": "Nathan Kihn",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/82zc5ghyk6.png",
+  "date": 1662399789181,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 3",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Camera",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Navy Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "One Gold Tooth",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Headband",
+      "rarity": "common"
+    }
+  ]
+}

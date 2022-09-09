@@ -1,0 +1,34 @@
+{
+  "dna": "02041022033010",
+  "name": "Joey Senger",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/6r6jl6dw3ku.png",
+  "date": 1662399407413,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 3",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Black Designer Button Down",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Bloodshot Crying Eyes",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Party Horn",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Fez",
+      "rarity": "uncommon"
+    }
+  ]
+}

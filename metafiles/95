@@ -1,0 +1,34 @@
+{
+  "dna": "0807801026037",
+  "name": "Clyde Senger",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/1ii3uaz3tjj.png",
+  "date": 1662399507202,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 11",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Life Vest",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Black Viking Beard",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Airbender Arrow",
+      "rarity": "epic"
+    }
+  ]
+}

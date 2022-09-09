@@ -1,0 +1,34 @@
+{
+  "dna": "01076025040081",
+  "name": "Moses Prosacco",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/62agyphem5u.png",
+  "date": 1662399253864,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Jacket with Vest",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Crying Eyes",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Cigar",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Umbrella Hat",
+      "rarity": "legendary"
+    }
+  ]
+}

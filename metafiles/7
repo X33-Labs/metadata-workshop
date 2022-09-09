@@ -1,0 +1,34 @@
+{
+  "dna": "01207406048060",
+  "name": "George Spencer",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/r3vq5z0ihl.png",
+  "date": 1662399220172,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 13",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Gator Hunter Vest",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Light Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Tusks",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Slicked Back Hair",
+      "rarity": "epic"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "dna": "010630160302",
+  "name": "Randall Koepp",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/89bpxwtxs5h.png",
+  "date": 1662399985714,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Yellow Plumber Overalls",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Navy Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pursed Lips",
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "03099011041072",
+  "name": "Rolando Becker",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/6zt0mglnw26.png",
+  "date": 1662399317759,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "PMC Vest",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Bloodshot Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Corn Cob Pipe",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Lava Brain Beaker",
+      "rarity": "legendary"
+    }
+  ]
+}

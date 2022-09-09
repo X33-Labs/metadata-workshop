@@ -1,0 +1,34 @@
+{
+  "dna": "010360804016",
+  "name": "Walter Johnston",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/py8lin0e7hd.png",
+  "date": 1662399844111,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Red Plaid Shirt",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Orange Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Smile",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Poker Visor",
+      "rarity": "uncommon"
+    }
+  ]
+}

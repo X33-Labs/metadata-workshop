@@ -1,0 +1,29 @@
+{
+  "dna": "0104302011027",
+  "name": "Kyle Beahan",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/36v49ojdia3.png",
+  "date": 1662400024672,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Teeth Smile",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "coffe head-01",
+      "rarity": "rare"
+    }
+  ]
+}

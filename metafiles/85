@@ -1,0 +1,34 @@
+{
+  "dna": "0002101404055",
+  "name": "Noah Bogan",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/8d14m8uj443.png",
+  "date": 1662399476298,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 1",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Red XRP Shirt",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Smile",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Mad Scientist Hair",
+      "rarity": "epic"
+    }
+  ]
+}

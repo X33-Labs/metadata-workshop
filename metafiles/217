@@ -1,0 +1,34 @@
+{
+  "dna": "040400001001",
+  "name": "Owen Rath",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/d38d0a87evw.png",
+  "date": 1662400001188,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 5",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Beige Designer Button Down",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Blue Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Runny Nose",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Berret",
+      "rarity": "common"
+    }
+  ]
+}

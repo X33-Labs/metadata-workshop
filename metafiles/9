@@ -1,0 +1,34 @@
+{
+  "dna": "07097030048076",
+  "name": "David Tromp",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/bc18n6pdhnt.png",
+  "date": 1662399226679,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 10",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Ninja Garb",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Black Glasses",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Tusks",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Pineapple Head",
+      "rarity": "legendary"
+    }
+  ]
+}

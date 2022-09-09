@@ -1,0 +1,34 @@
+{
+  "dna": "05010502048054",
+  "name": "Wesley Gislason",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/y3m00j9llvd.png",
+  "date": 1662399215499,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "White Astronaut Suit",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Tusks",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Liberty Crown",
+      "rarity": "epic"
+    }
+  ]
+}

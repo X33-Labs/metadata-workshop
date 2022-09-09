@@ -1,0 +1,34 @@
+{
+  "dna": "030180701306",
+  "name": "Doyle Wintheiser",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/sbt41qjosu9.png",
+  "date": 1662400006243,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Purple Hoodie",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Navy Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Wide Open Mouth",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Headband",
+      "rarity": "common"
+    }
+  ]
+}

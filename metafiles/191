@@ -1,0 +1,34 @@
+{
+  "dna": "010370100803",
+  "name": "Roland Hermiston",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/p2c5eyzodj.png",
+  "date": 1662399883593,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Referee Uniform",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Yellow Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Lip Ring",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue Beanie",
+      "rarity": "common"
+    }
+  ]
+}

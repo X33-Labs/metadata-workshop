@@ -1,0 +1,29 @@
+{
+  "dna": "020420901702",
+  "name": "Ian Rau",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/89ks63ds96s.png",
+  "date": 1662399543384,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 3",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Black Formal Suit",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Purple Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Gold Grills",
+      "rarity": "rare"
+    }
+  ]
+}

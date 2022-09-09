@@ -1,0 +1,34 @@
+{
+  "dna": "0305305010016",
+  "name": "Rolando Beatty",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/3lk7eawz2xs.png",
+  "date": 1662399897680,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Pastel Sweatshirt",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Runny Nose",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Poker Visor",
+      "rarity": "uncommon"
+    }
+  ]
+}

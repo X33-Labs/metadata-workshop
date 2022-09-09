@@ -1,0 +1,34 @@
+{
+  "dna": "00017000301",
+  "name": "Russell Ledner",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/36wwd38wpd.png",
+  "date": 1662400076312,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 1",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Purple Banana Shirt",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Blue Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pursed Lips",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Berret",
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "0110103032029067",
+  "name": "Dominick Wolf",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/kexlpnv5mk.png",
+  "date": 1662399279551,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 12",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Toddler Shirt",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Coding Glasses",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Cig",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Feline Whiskers and Koban",
+      "rarity": "legendary"
+    }
+  ]
+}

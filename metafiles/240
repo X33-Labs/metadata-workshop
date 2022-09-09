@@ -1,0 +1,29 @@
+{
+  "dna": "01047020002",
+  "name": "Ed Gibson",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/i7j0nxvjm5.png",
+  "date": 1662400100576,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Denim Overalls",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Bored",
+      "rarity": "common"
+    }
+  ]
+}

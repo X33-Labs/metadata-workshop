@@ -1,0 +1,34 @@
+{
+  "dna": "06076024032040",
+  "name": "Juan Rolfson",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/6vgovhadgjf.png",
+  "date": 1662399489905,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 7",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Jacket with Vest",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Bruised Eye",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Joint",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Archer Hat",
+      "rarity": "epic"
+    }
+  ]
+}

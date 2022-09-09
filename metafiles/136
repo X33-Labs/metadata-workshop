@@ -1,0 +1,34 @@
+{
+  "dna": "0003202009013",
+  "name": "Ismael Gerlach",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/hdmlzi372x.png",
+  "date": 1662399670597,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 1",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Green Button Up Vest",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Yellow Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Open Mouth",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Green Phat",
+      "rarity": "uncommon"
+    }
+  ]
+}

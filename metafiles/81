@@ -1,0 +1,29 @@
+{
+  "dna": "01002602801001",
+  "name": "Franklin Moore",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/gkjegpo2kog.png",
+  "date": 1662399456562,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 9",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Poker Shades",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Runny Nose",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Berret",
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "06034018024061",
+  "name": "Michael Medhurst",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/q0qafgeamua.png",
+  "date": 1662399703781,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 7",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Purple Neckerchief",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Purple Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "tongue out-01",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Underworld Hair",
+      "rarity": "epic"
+    }
+  ]
+}

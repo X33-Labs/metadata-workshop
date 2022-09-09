@@ -1,0 +1,34 @@
+{
+  "dna": "03019010205",
+  "name": "Floyd Jaskolski",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/bjt5mkl03j5.png",
+  "date": 1662399964559,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Red Hoodie",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Grin",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gray Hairs",
+      "rarity": "common"
+    }
+  ]
+}

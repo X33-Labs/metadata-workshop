@@ -1,0 +1,34 @@
+{
+  "dna": "04018010404",
+  "name": "Abel Jerde",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/tcf5z9wpyur.png",
+  "date": 1662399987436,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 5",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Purple Hoodie",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Smile",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Earring",
+      "rarity": "common"
+    }
+  ]
+}

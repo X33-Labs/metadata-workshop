@@ -1,0 +1,29 @@
+{
+  "dna": "060300017015",
+  "name": "Frank Gaylord",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/vypyq8bvfql.png",
+  "date": 1662399486441,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 7",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Blue Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Gold Grills",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Party Hat",
+      "rarity": "uncommon"
+    }
+  ]
+}

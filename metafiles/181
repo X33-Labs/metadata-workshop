@@ -1,0 +1,34 @@
+{
+  "dna": "000340103003",
+  "name": "Randal Luettgen",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/5zxukobxsjw.png",
+  "date": 1662399836725,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 1",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Purple Neckerchief",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Evil Moustache",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue Beanie",
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "0909606016067",
+  "name": "Garrett Ferry",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/q3mzqs1qrd.png",
+  "date": 1662399232677,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 8",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Master Armor",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Light Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Brown Beard",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Feline Whiskers and Koban",
+      "rarity": "legendary"
+    }
+  ]
+}

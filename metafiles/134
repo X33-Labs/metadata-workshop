@@ -1,0 +1,34 @@
+{
+  "dna": "0504501102024",
+  "name": "Grady Jerde",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/27d25nh95n1.png",
+  "date": 1662399660372,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Camera",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Bloodshot Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Grin",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue Golf Cap",
+      "rarity": "rare"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "010081020027026",
+  "name": "Joe Bosco",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/2s4vsfh10fp.png",
+  "date": 1662399493866,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 9",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Mouse Tail",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Yellow Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Blunt",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Cheetah Print Cap",
+      "rarity": "rare"
+    }
+  ]
+}

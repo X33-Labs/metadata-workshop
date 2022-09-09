@@ -1,0 +1,34 @@
+{
+  "dna": "00029012029081",
+  "name": "Isaac Wilderman",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/mn9uts2m2i.png",
+  "date": 1662399555203,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 1",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Blue Suit",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Blue Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Cig",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Umbrella Hat",
+      "rarity": "legendary"
+    }
+  ]
+}

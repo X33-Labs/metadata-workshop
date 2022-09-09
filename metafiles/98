@@ -1,0 +1,34 @@
+{
+  "dna": "0706505035011",
+  "name": "Julio Schiller",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/aut1mnlzb3b.png",
+  "date": 1662399524996,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 10",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Bathrobe",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Robot Mouth",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gem Earring and Helix",
+      "rarity": "uncommon"
+    }
+  ]
+}

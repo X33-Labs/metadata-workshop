@@ -1,0 +1,34 @@
+{
+  "dna": "030280103017",
+  "name": "Ervin Schinner",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/jnnt3j1gxo.png",
+  "date": 1662399743124,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Blue Plaid Shirt",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pursed Lips",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Purple Phat",
+      "rarity": "uncommon"
+    }
+  ]
+}

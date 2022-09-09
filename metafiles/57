@@ -1,0 +1,29 @@
+{
+  "dna": "04043020015058",
+  "name": "Max Brakus",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/09mcnbjmag6b.png",
+  "date": 1662399373237,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 5",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Yellow Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Bloody Nose",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Purple Surfer Hair",
+      "rarity": "epic"
+    }
+  ]
+}

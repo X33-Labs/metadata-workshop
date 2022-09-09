@@ -1,0 +1,29 @@
+{
+  "dna": "040308011016",
+  "name": "Randolph Nolan",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/4bbj19zabra.png",
+  "date": 1662399745615,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 5",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Orange Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Teeth Smile",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Poker Visor",
+      "rarity": "uncommon"
+    }
+  ]
+}

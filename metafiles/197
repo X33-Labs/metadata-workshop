@@ -1,0 +1,34 @@
+{
+  "dna": "0403002400010",
+  "name": "Maurice Gleichner",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/85w58nly226.png",
+  "date": 1662399909043,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 5",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Dark Gray Suit ",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Bruised Eye",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Bored",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Fez",
+      "rarity": "uncommon"
+    }
+  ]
+}

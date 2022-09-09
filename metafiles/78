@@ -1,0 +1,29 @@
+{
+  "dna": "0306802703601",
+  "name": "Jason Johnson",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/l3ieo15bjxf.png",
+  "date": 1662399444997,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Insect Eyes",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Surgical Mask",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Berret",
+      "rarity": "common"
+    }
+  ]
+}

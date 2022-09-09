@@ -1,0 +1,34 @@
+{
+  "dna": "08076018015035",
+  "name": "Daryl Schultz",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/wg7gz204hq9.png",
+  "date": 1662399260779,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 11",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Jacket with Vest",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Purple Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Bloody Nose",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Traveler Hat",
+      "rarity": "rare"
+    }
+  ]
+}

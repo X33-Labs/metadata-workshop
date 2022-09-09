@@ -1,0 +1,34 @@
+{
+  "dna": "050330604013",
+  "name": "Donnie Schimmel",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/o2chqs32r3e.png",
+  "date": 1662399620657,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Green Plaid Shirt",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Light Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Smile",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Green Phat",
+      "rarity": "uncommon"
+    }
+  ]
+}

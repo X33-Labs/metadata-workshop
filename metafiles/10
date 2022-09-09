@@ -1,0 +1,34 @@
+{
+  "dna": "06041022028049",
+  "name": "Jeffrey Bashirian",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/dkfx4erhtgk.png",
+  "date": 1662399231102,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 7",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Black Designer Button Down",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Bloodshot Crying Eyes",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Brown Viking Beard",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Green Hero Cap",
+      "rarity": "epic"
+    }
+  ]
+}

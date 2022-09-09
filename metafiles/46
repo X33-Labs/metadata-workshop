@@ -1,0 +1,34 @@
+{
+  "dna": "030101029041034",
+  "name": "Bennie Huels",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/1ddszgbvc1g.png",
+  "date": 1662399331784,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Santa Suit",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "3D Glasses",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Corn Cob Pipe",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Tin Foil Hat",
+      "rarity": "rare"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "010110901501",
+  "name": "Van Abernathy",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/7nvylh551fe.png",
+  "date": 1662399996204,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Light Blue Hoodie",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Purple Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Bloody Nose",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Berret",
+      "rarity": "common"
+    }
+  ]
+}

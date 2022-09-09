@@ -1,0 +1,62 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id":"https://yourdomain.com/schemas/mybaseschema.json",
+    "required":[
+        "schema",
+        "nftType",
+        "name",
+        "description",
+        "image",
+        "collection",
+        "attributes"
+    ],
+    "properties":{
+        "schema":{
+            "type":"string",
+            "format":"uri"
+        },
+        "nftType":{
+            "type":"string",
+            "pattern":"(^[a-zA-Z]+\\.v[0-9]+$)"
+        },
+        "name":{
+            "type":"string"
+        },
+        "description":{
+            "type":"string"
+        },
+        "image":{
+            "type":"string",
+            "format":"uri"
+        },
+        "collection":{
+            "type":"object",
+            "required": [
+                "name",
+                "family"
+            ],
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "family": {
+                    "type": "string"
+                }
+            }
+        },
+        "attributes":{
+            "type":"array",
+            "items":
+            {
+                "type":"object",
+                "properties":
+                {
+                    "name":{"type":"string"},
+                    "description":{"type":"string"},
+                    "value":{"type":["string","int","float","number"]}
+                },
+                "required":["name","value"]
+            }
+        }
+    }
+}

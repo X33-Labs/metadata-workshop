@@ -1,0 +1,34 @@
+{
+  "dna": "00013020005",
+  "name": "Pedro Kub",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/7bnw9wqjxax.png",
+  "date": 1662399869818,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 1",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Orange PARC Shirt",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Bored",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gray Hairs",
+      "rarity": "common"
+    }
+  ]
+}

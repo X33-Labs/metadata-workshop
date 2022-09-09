@@ -1,0 +1,34 @@
+{
+  "dna": "050102025040026",
+  "name": "Lawrence Kessler",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/ir8syekx7hk.png",
+  "date": 1662399296417,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Tan Jedi Robe",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Crying Eyes",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Cigar",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Cheetah Print Cap",
+      "rarity": "rare"
+    }
+  ]
+}

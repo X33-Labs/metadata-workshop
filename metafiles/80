@@ -1,0 +1,34 @@
+{
+  "dna": "07059025013030",
+  "name": "Courtney Schmitt",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/mqul96dolnj.png",
+  "date": 1662399454829,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 10",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Safari Vest",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Crying Eyes",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Wide Open Mouth",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Leprechaun Hat",
+      "rarity": "rare"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "08056016035027",
+  "name": "Mack Lind",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/audjjastybs.png",
+  "date": 1662399440273,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 11",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Purple Plumber Overalls",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Navy Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Robot Mouth",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "coffe head-01",
+      "rarity": "rare"
+    }
+  ]
+}

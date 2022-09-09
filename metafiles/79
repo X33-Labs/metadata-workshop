@@ -1,0 +1,29 @@
+{
+  "dna": "0804302044012",
+  "name": "Eric Boehm",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/837v396jssh.png",
+  "date": 1662399453104,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 11",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pizza",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gem Earring",
+      "rarity": "uncommon"
+    }
+  ]
+}

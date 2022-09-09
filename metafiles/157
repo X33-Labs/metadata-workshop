@@ -1,0 +1,29 @@
+{
+  "dna": "0404801008022",
+  "name": "Damon O'Connell",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/87nnsa5fcx4.png",
+  "date": 1662399756642,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 5",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Grey Vest",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Yellow Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Lip Ring",
+      "rarity": "uncommon"
+    }
+  ]
+}

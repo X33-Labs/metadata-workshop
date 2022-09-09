@@ -1,0 +1,29 @@
+{
+  "dna": "02030009016",
+  "name": "Jerome Schneider",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/yhm4j75c46.png",
+  "date": 1662399989196,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 3",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Blue Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Open Mouth",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Poker Visor",
+      "rarity": "uncommon"
+    }
+  ]
+}

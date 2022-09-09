@@ -1,0 +1,34 @@
+{
+  "dna": "05024019024035",
+  "name": "Joey Kuphal",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/7zwk9m9qr6h.png",
+  "date": 1662399586687,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Yellow XRP Shirt",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Red Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "tongue out-01",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Traveler Hat",
+      "rarity": "rare"
+    }
+  ]
+}

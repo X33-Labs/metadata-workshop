@@ -1,0 +1,34 @@
+{
+  "dna": "0807701017024",
+  "name": "Arturo Langworth",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/pfrs7v6b2lj.png",
+  "date": 1662399377980,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 11",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Leather Armor",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Gold Grills",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue Golf Cap",
+      "rarity": "rare"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "040280501206",
+  "name": "Lynn Rath",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/mkbytqsy4w.png",
+  "date": 1662399781319,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 5",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Blue Plaid Shirt",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Two Teeth",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Headband",
+      "rarity": "common"
+    }
+  ]
+}

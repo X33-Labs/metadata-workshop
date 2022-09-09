@@ -1,0 +1,34 @@
+{
+  "dna": "0205020406",
+  "name": "Johnathan Bailey",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/t8fv4tzszn.png",
+  "date": 1662400011219,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 3",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Blue Polo",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Smile",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Headband",
+      "rarity": "common"
+    }
+  ]
+}

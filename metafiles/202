@@ -1,0 +1,34 @@
+{
+  "dna": "010140205026",
+  "name": "Sylvester Tromp",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/2m7qfucjsth.png",
+  "date": 1662399926977,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Orange Polo",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Drooling",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Cheetah Print Cap",
+      "rarity": "rare"
+    }
+  ]
+}

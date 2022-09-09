@@ -1,0 +1,34 @@
+{
+  "dna": "030101033042032",
+  "name": "Randall Gottlieb",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/1e06wcc602b.png",
+  "date": 1662399263917,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Santa Suit",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Designer Glasses",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Fangs",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Red Bandana",
+      "rarity": "rare"
+    }
+  ]
+}

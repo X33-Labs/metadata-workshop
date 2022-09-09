@@ -1,0 +1,34 @@
+{
+  "dna": "0140940104404",
+  "name": "Michael Hermiston",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/jvuk71543y.png",
+  "date": 1662399321040,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 15",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Evil Scientist Top",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pizza",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Earring",
+      "rarity": "common"
+    }
+  ]
+}

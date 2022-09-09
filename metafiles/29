@@ -1,0 +1,34 @@
+{
+  "dna": "050630604800",
+  "name": "Rodolfo Kreiger",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/0w88d3ynv50f.png",
+  "date": 1662399275228,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Yellow Plumber Overalls",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Light Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Tusks",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Ball Cap",
+      "rarity": "common"
+    }
+  ]
+}

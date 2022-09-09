@@ -1,0 +1,22 @@
+{   
+    "schema":"https://json-schema.org/draft/2020-12/schema",
+    "nftType":"xrart.v0",
+    "name":"xrArt NFT",
+    "description":"An xrArt NFT.",
+    "collection":
+        {
+            "name":"xr-Art season 1",
+            "family":"xr-Art limited"
+        },
+    "attributes":[
+        {
+            "name":"Hat",
+            "description":"A really cool hat.",
+            "value":85
+        },
+        {
+            "name":"Eyes",
+            "value":"red"
+        }
+    ]
+}

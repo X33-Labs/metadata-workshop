@@ -1,0 +1,34 @@
+{
+  "dna": "013098011029029",
+  "name": "Cornelius Olson",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/59usiycxxg.png",
+  "date": 1662399210825,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 14",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Orange Astronaut Suit",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Bloodshot Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Cig",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Flower Hat ",
+      "rarity": "rare"
+    }
+  ]
+}

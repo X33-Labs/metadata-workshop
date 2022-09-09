@@ -1,0 +1,34 @@
+{
+  "dna": "08039023034018",
+  "name": "Elijah Gutkowski",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/ttdm1dnfg1.png",
+  "date": 1662399534577,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 11",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Artist Shirt",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Blue Rimmed Glasses",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pirate Beard",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Straw Hat",
+      "rarity": "uncommon"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "040380007028",
+  "name": "Clint Dietrich",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/rs8io7ppnmp.png",
+  "date": 1662399560074,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 5",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "White Polo with Tie",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Blue Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Leedle Mouth",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Exposed Brain",
+      "rarity": "rare"
+    }
+  ]
+}

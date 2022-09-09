@@ -1,0 +1,34 @@
+{
+  "dna": "0003601702018",
+  "name": "Carl Corkery",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/jy8wzk7esjh.png",
+  "date": 1662400059422,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 1",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Red Plaid Shirt",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Orange Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Grin",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Straw Hat",
+      "rarity": "uncommon"
+    }
+  ]
+}

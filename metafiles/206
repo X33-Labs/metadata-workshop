@@ -1,0 +1,34 @@
+{
+  "dna": "000380205019",
+  "name": "Aubrey Hegmann",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/f0giq2a9u4l.png",
+  "date": 1662399953332,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 1",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "White Polo with Tie",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Drooling",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Yellow Phat",
+      "rarity": "uncommon"
+    }
+  ]
+}

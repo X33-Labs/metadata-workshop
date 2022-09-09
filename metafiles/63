@@ -1,0 +1,34 @@
+{
+  "dna": "02069029020013",
+  "name": "Cesar Bartoletti",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/7r35hn21ca6.png",
+  "date": 1662399393405,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 3",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Blue Jacket with Chain",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "3D Glasses",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Moustache",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Green Phat",
+      "rarity": "uncommon"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "dna": "04026060405",
+  "name": "Stewart Greenholt",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/e1zgw5uskv.png",
+  "date": 1662400133693,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 5",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Light Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Smile",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gray Hairs",
+      "rarity": "common"
+    }
+  ]
+}

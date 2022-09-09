@@ -1,0 +1,34 @@
+{
+  "dna": "0506201701108",
+  "name": "Raymond Dach",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/ib926i4d7ai.png",
+  "date": 1662399636529,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Wound",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Orange Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Teeth Smile",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Yellow Beanie",
+      "rarity": "common"
+    }
+  ]
+}

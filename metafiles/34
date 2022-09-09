@@ -1,0 +1,34 @@
+{
+  "dna": "01060029042068",
+  "name": "Derrick Jacobson",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/w6k7g8l12j.png",
+  "date": 1662399285965,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "White Formal Suit",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "3D Glasses",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Fangs",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Fire Head",
+      "rarity": "legendary"
+    }
+  ]
+}

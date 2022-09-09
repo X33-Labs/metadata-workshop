@@ -1,0 +1,34 @@
+{
+  "dna": "040701009025",
+  "name": "Jessie Fritsch",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/hicc5gyqlrm.png",
+  "date": 1662399715086,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 5",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Green Hoodie",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Yellow Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Open Mouth",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Cheese Head",
+      "rarity": "rare"
+    }
+  ]
+}

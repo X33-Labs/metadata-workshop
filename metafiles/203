@@ -1,0 +1,34 @@
+{
+  "dna": "00080701408",
+  "name": "Shawn Parker",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/8pysoz5xtqg.png",
+  "date": 1662399938366,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 1",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Green PARC Shirt",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Navy Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Wide Smile",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Yellow Beanie",
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "03038021017030",
+  "name": "Anthony Crist",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/6ea7evh7vu6.png",
+  "date": 1662399536340,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 4",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "White Polo with Tie",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Zombie Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Gold Grills",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Leprechaun Hat",
+      "rarity": "rare"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "0702017030024",
+  "name": "Paul Lemke",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/gi3ph00dwqv.png",
+  "date": 1662399388604,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 10",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Black Hoodie",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Orange Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Evil Moustache",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue Golf Cap",
+      "rarity": "rare"
+    }
+  ]
+}

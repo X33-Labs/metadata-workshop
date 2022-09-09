@@ -1,0 +1,34 @@
+{
+  "dna": "05045021020027",
+  "name": "Robert Collins",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/frgji2ryia.png",
+  "date": 1662399701385,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Camera",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Zombie Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Moustache",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "coffe head-01",
+      "rarity": "rare"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "07081030016039",
+  "name": "Kenny Prosacco",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/ik9k5dbwofe.png",
+  "date": 1662399252273,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 10",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Mouse Tail",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Black Glasses",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Brown Beard",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Apple with Arrow",
+      "rarity": "epic"
+    }
+  ]
+}

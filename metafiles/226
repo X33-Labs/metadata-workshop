@@ -1,0 +1,29 @@
+{
+  "dna": "020550200302",
+  "name": "Ted Larkin",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/xigccbcnvfi.png",
+  "date": 1662400046612,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 3",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Pilot Polo",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Yellow Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pursed Lips",
+      "rarity": "common"
+    }
+  ]
+}

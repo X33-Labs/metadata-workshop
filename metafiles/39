@@ -1,0 +1,34 @@
+{
+  "dna": "020650207071",
+  "name": "Gerard Tromp",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/51hpdkivavc.png",
+  "date": 1662399308520,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 3",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Bathrobe",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Leedle Mouth",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Kasa",
+      "rarity": "legendary"
+    }
+  ]
+}

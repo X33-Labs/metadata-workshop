@@ -1,0 +1,34 @@
+{
+  "dna": "0100480103206",
+  "name": "Darin Marks",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/boflj0pe8j5.png",
+  "date": 1662399290369,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 9",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Grey Vest",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Joint",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Headband",
+      "rarity": "common"
+    }
+  ]
+}

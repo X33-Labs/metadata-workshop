@@ -1,0 +1,34 @@
+{
+  "dna": "0003201901308",
+  "name": "Al Heathcote",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/ejs5nsfjudj.png",
+  "date": 1662399683548,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 1",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Green Button Up Vest",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Red Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Wide Open Mouth",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Yellow Beanie",
+      "rarity": "common"
+    }
+  ]
+}

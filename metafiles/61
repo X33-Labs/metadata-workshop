@@ -1,0 +1,34 @@
+{
+  "dna": "01004601603029",
+  "name": "William Nikolaus",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/zeqt2uksrhf.png",
+  "date": 1662399386244,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 9",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Caveman Shirt",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Navy Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pursed Lips",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Flower Hat ",
+      "rarity": "rare"
+    }
+  ]
+}

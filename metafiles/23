@@ -1,0 +1,34 @@
+{
+  "dna": "01007904025033",
+  "name": "Woodrow Thiel",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/y7lgfgss0lj.png",
+  "date": 1662399262331,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 9",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Mermaid Top",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Beaver Teeth",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Red Golf Cap",
+      "rarity": "rare"
+    }
+  ]
+}

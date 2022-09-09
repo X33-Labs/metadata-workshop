@@ -1,0 +1,29 @@
+{
+  "dna": "070930340202",
+  "name": "Clay Oberbrunner",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/1ju2ltt85jd.png",
+  "date": 1662399319301,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 10",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Duelist Shirt",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Egg Eyes",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Grin",
+      "rarity": "common"
+    }
+  ]
+}

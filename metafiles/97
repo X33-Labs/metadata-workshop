@@ -1,0 +1,34 @@
+{
+  "dna": "01008013017020",
+  "name": "Rafael Vandervort",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/uaqrd0skl.png",
+  "date": 1662399517057,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 9",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Green PARC Shirt",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Gold Grills",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Artist Berret",
+      "rarity": "rare"
+    }
+  ]
+}

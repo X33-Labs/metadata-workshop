@@ -1,0 +1,29 @@
+{
+  "dna": "0109010202",
+  "name": "Marc Miller",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/nvoh7ur2v8l.png",
+  "date": 1662400028230,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Green Polo",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Grin",
+      "rarity": "common"
+    }
+  ]
+}

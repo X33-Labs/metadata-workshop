@@ -1,0 +1,34 @@
+{
+  "dna": "01035016024013",
+  "name": "Anthony Dicki",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/vvv4d7cg39f.png",
+  "date": 1662400057112,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 2",
+      "rarity": "common"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Red Buttonup Vest",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Navy Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "tongue out-01",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Green Phat",
+      "rarity": "uncommon"
+    }
+  ]
+}

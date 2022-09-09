@@ -1,0 +1,34 @@
+{
+  "dna": "0507305012016",
+  "name": "Reginald Schumm",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/kbisf3v5hu.png",
+  "date": 1662399767375,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Farmer Shirt",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Two Teeth",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Poker Visor",
+      "rarity": "uncommon"
+    }
+  ]
+}

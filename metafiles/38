@@ -1,0 +1,34 @@
+{
+  "dna": "01009705042015",
+  "name": "Joe Rohan",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/o2b7nsreoro.png",
+  "date": 1662399301126,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 9",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Ninja Garb",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Fangs",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Party Hat",
+      "rarity": "uncommon"
+    }
+  ]
+}

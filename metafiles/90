@@ -1,0 +1,34 @@
+{
+  "dna": "01006404014024",
+  "name": "Kerry Fahey",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/dmucs5md7da.png",
+  "date": 1662399491545,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 9",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Banana Clip",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "",
+      "value": "Brown Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Wide Smile",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue Golf Cap",
+      "rarity": "rare"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "05046016033029",
+  "name": "Rickey Larson",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/7leg5iypsuo.png",
+  "date": 1662399512246,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Caveman Shirt",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Navy Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Party Horn",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Flower Hat ",
+      "rarity": "rare"
+    }
+  ]
+}

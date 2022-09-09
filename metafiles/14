@@ -1,0 +1,34 @@
+{
+  "dna": "0505105042060",
+  "name": "Vernon Durgan",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/owbt161yrtq.png",
+  "date": 1662399246863,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 6",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "PARC Hoodie",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "",
+      "value": "Green Eyes",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Fangs",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Slicked Back Hair",
+      "rarity": "epic"
+    }
+  ]
+}

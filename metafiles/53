@@ -1,0 +1,34 @@
+{
+  "dna": "0903301505031",
+  "name": "Guy Rau",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/gbkq6r6du1b.png",
+  "date": 1662399355595,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 8",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Green Plaid Shirt",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Light Green Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Drooling",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Mischievous Monkey Hat",
+      "rarity": "rare"
+    }
+  ]
+}

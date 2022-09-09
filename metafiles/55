@@ -1,0 +1,34 @@
+{
+  "dna": "06089020032045",
+  "name": "Simon Bogan",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/o6lmrdxux4.png",
+  "date": 1662399366127,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 7",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Caveman Sash",
+      "rarity": "legendary"
+    },
+    {
+      "trait_type": "",
+      "value": "Yellow Eyes",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Joint",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Curious Monkey Hat",
+      "rarity": "epic"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dna": "08031025024075",
+  "name": "Lucas Prosacco",
+  "description": "Pixel Ape Rowboat Club",
+  "image": "https://bridge.xrplive.com/images/nfts/bxf3xgmuw1t.png",
+  "date": 1662399248467,
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "Fur 11",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Gray Suit",
+      "rarity": "uncommon"
+    },
+    {
+      "trait_type": "",
+      "value": "Crying Eyes",
+      "rarity": "epic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "tongue out-01",
+      "rarity": "rare"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Nurse Hair",
+      "rarity": "legendary"
+    }
+  ]
+}
